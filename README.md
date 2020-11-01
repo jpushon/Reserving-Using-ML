@@ -10,7 +10,7 @@ My attempt at a **curated** list of articles and research around the application
 
 [Machine learning in Reserving Working Party - UK survey findings](https://www.actuaries.org.uk/system/files/field/document/MLR_UKSurveyIFoA.pdf) - High level overview of Machine Learning in Reserving across surveyed companies in the UK. 
 
-[Survey of Canadian Actuarieson ML in Reserving](https://www.actuaries.org.uk/system/files/field/document/MLR_CanadaSurvey.pdf) - High level overview of Machine Learning in Reserving across surveyed companies in Canada.
+[Survey of Canadian Actuaries on ML in Reserving](https://www.actuaries.org.uk/system/files/field/document/MLR_CanadaSurvey.pdf) - High level overview of Machine Learning in Reserving across surveyed companies in Canada.
 
 
 ## Deep Learning / Neural Networks
