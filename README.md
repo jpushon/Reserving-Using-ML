@@ -19,6 +19,8 @@ My attempt at a **curated** list of articles and research around the application
 [Deep Triangle](https://arxiv.org/pdf/1804.09253.pdf) - The approach allows for joint modeling of paid losses and claims outstanding, and incorporation of heterogeneous input. Uses high level aggregated data.
 
 ## GLMs
+[Individual claims reserving in Credit insurance
+using GLM and Machine Learning](https://www.dss.uniroma1.it/it/system/files/pubblicazioni/IndividualClaimsReservingTicconi.pdf) - Nice comparisons between GLM, NN, and SVMs. Easy to read.
 
 ## Statistical Case Estimates
 
